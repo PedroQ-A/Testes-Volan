@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/PedroQ-A/Testes-Volan#readme",
   "devDependencies": {
-    "cypress": "^13.6.0"
+    "cypress": "^15.3.0"
   }
 }
