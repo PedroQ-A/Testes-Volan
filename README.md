@@ -1,4 +1,2 @@
 # Testes-Estudos
-Testes para o Volan
-
-O cabo me ajudou
+Estudos de Testes para Automação
